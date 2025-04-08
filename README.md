@@ -12,4 +12,4 @@
 
 <img src="https://github.com/luchs8/Projetojs1/blob/main/assets/ConverterDesktop.png">
 <br>
-<img alt="https://github.com/luchs8/Projetojs1/blob/main/assets/ConverterMobille.png">
+<img src="https://github.com/luchs8/Projetojs1/blob/main/assets/ConverterMobille.png">
