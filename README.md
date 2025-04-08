@@ -6,7 +6,10 @@
 <br>
 <h2>Esse projeto foi criado com o intuito de  aprendermos a criar um conversor de moedas</h2>
 <br>
-<h2>Tecnologias utilizadas</h2>
-<br>
 
-<img alt="">
+<h3>Desktop e Mobile</h3>
+
+
+<img alt="https://github.com/luchs8/Projetojs1/blob/main/assets/ConverterDesktop.png">
+<br>
+<img alt="https://github.com/luchs8/Projetojs1/blob/main/assets/ConverterMobille.png">
