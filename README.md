@@ -10,6 +10,6 @@
 <h3>Desktop e Mobile</h3>
 
 
-<img alt="https://github.com/luchs8/Projetojs1/blob/main/assets/ConverterDesktop.png">
+<img src="https://github.com/luchs8/Projetojs1/blob/main/assets/ConverterDesktop.png">
 <br>
 <img alt="https://github.com/luchs8/Projetojs1/blob/main/assets/ConverterMobille.png">
