@@ -4,7 +4,7 @@
 <br>
 <h2>Esse foi um projeto bacana que aprendi no <a href= "https//rodolfomori.com.br/devclub">DevClub</a> Utilizando HTML , CSS e Javascript</h2>
 <br>
-<h2>Esse projeto foi criado com o intuito de  aprendermos a criar um conversor de moedas</h2>
+<h2>Esse projeto foi criado com o intuito d  aprendermos a criar um conversor de moedas</h2>
 <br>
 
 <h3>Desktop e Mobile</h3>
